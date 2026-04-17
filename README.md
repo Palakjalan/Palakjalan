@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Palakjalan/Palakjalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Palak Jalan 
 
-Here are some ideas to get you started:
+🎓 3rd Year Computer Science Student | 📊 Aspiring Data Analyst  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m focused on building strong data analytics skills through hands-on projects and consistent practice. I enjoy working with data to uncover patterns, generate insights, and support decision-making.
+
+## 🛠 Skills
+- Python (pandas, numpy)
+- SQL
+- Excel
+- Power BI / Tableau
+- Data Cleaning & Exploratory Data Analysis
+
+## 📈 Currently Working On
+- Strengthening SQL and problem-solving
+- Building data analytics projects
+- Learning data visualization tools
+
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/palakjalan20/
+
+⭐ Continuously learning and improving
